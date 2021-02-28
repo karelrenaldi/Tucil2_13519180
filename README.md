@@ -1,4 +1,4 @@
-# ⚛ Tugas Kecil 1 Strategi Algoritma (IF-2211) ⚛
+# ⚛ Tugas Kecil 2 Strategi Algoritma (IF-2211) ⚛
 
 ## 💢 Deskripsi
 
