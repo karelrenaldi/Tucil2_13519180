@@ -26,6 +26,14 @@ OR
 $ tucil2.exe
 ```
 
+## 💢 Algoritma
+```shell
+1.	Buat representasi DAG(Directed Acyclic Graph) dan representasi untuk menyimpan nilai derajat masuk dari setiap simpul / vertices
+2.	Pilih semua simpul / vertices yang memiliki derajat masuk sebesar 0 lalu buang simpul-simpul tersebut dari graf.
+3.	Lakukan perubahan derajat masuk kepada simpul / vertices dengan mengurangi derajat simpul-simpul tersebut yang berhubungan dengan simpul yang dibuang dari graf.
+4.	Ulangi langkah (2) dan (3) hingga graf kosong, jika graf sudah kosong maka algoritma pengurutan sudah selesai.
+```
+
 ## 💢 Additional
 
 <ul>
